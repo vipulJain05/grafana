@@ -1,0 +1,22 @@
+{
+  "name": "request-simulator",
+  "version": "1.0.0",
+  "description": "generating request logs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartJoules/request-simulator.git"
+  },
+  "keywords": [
+    "devops-assignment"
+  ],
+  "author": "Praveen Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartJoules/request-simulator/issues"
+  },
+  "homepage": "https://github.com/SmartJoules/request-simulator#readme"
+}
